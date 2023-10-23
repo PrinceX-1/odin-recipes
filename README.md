@@ -1,0 +1,1 @@
+This project will display a couple of recipes. It's purpose is to practice HTML and CSS!
